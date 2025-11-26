@@ -14,7 +14,7 @@ void showHealthBar(string name, int hp, int maxHp){
     for (int i = 0; i < bars; i++){
         cout << "█"; 
     }
-    for (int i = 0; i < 10; i++){
+    for (int i = bars; i < 10; i++){
         cout << "░";
     }
     
