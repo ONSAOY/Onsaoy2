@@ -157,6 +157,7 @@
     <ClCompile Include="Coins.cpp" />
     <ClCompile Include="Onsaoy2.cpp" />
     <ClCompile Include="_2slessor.cpp" />
+    <ClCompile Include="_3slessor.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

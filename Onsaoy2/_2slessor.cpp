@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include <string>
 #include <cstdlib> // библиотека для рандома
 using namespace std;
@@ -60,4 +60,4 @@ int main(){
     cout << "Ты победил! Я загадал: " << randNum << endl;
     
     return 0;
-}
+}*/
