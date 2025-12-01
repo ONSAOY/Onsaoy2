@@ -154,10 +154,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CharacterSystem.cpp" />
     <ClCompile Include="Coins.cpp" />
+    <ClCompile Include="FFAAAAAAAAAAAAAAH.cpp" />
+    <ClCompile Include="GameMath.cpp" />
+    <ClCompile Include="GameMath.tpp" />
     <ClCompile Include="Onsaoy2.cpp" />
     <ClCompile Include="_2slessor.cpp" />
     <ClCompile Include="_3slessor.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CharacterSystem.h" />
+    <ClInclude Include="GameMath.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
